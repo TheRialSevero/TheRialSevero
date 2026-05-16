@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://github.com/TheRialSevero/TheRealSevero/blob/main/bannerjpg.jpeg" width="100%" alt="banner"/>
+  <img src="https://github.com/TheRialSevero/TheRialSevero/blob/main/bannerjpg.jpeg" width="100%" alt="banner"/>
 </div>
 
 <!-- TITLE -->
@@ -36,7 +36,7 @@ Currently deepening my studies in **Python**, **SQL** and **web development**, a
 
 I also have experience with **HTML**, **CSS**, **JavaScript**,**Node.js**, **Git** and am currently exploring **Cybersecurity**.
 
-<img align="right" width="240px" src="https://github.com/TheRialSevero/TheRealSevero/blob/main/charpng.jpg" alt="character"/>
+<img align="right" width="240px" src="https://github.com/TheRialSevero/TheRialSevero/blob/main/charpng.jpg" alt="character"/>
 
 <br clear="right"/>
 
